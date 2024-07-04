@@ -1,5 +1,5 @@
 def is_odd(x):
-    if x % 2 == 1:
+    if x % 2:
         return True
 
     else:
